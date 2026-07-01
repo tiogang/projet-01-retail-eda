@@ -50,4 +50,4 @@ analyse_ventes.ipynb
 
 ## Auteur
 **Shanice Marvin Tiogang** · Business Analytics & Data Science · Tunis  
-[LinkedIn](#) · [GitHub]([GitHub](https://github.com/tiogang))
+[LinkedIn](#) · [GitHub](https://github.com/tiogang)
