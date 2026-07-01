@@ -36,6 +36,19 @@ les produits phares et les patterns d'achat des clients.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-green)
 
 ## Structure du notebook
+
+analyse_ventes.ipynb
+- 1. Imports & configuration
+- 2. Chargement & inspection
+- 3. Valeurs manquantes
+- 4. Détection des anomalies
+- 5. Data Cleaning
+- 6. Statistiques descriptives
+- 7. Analyse GroupBy
+- 8. Pivot Table
+- 9. Visualisations
+- 10. Rapport visuel final
+
 ## Auteur
 **Shanice Marvin Tiogang** · Business Analytics & Data Science · Tunis  
-[LinkedIn](#) · [GitHub](https://github.com/tiogang/projet-01-retail-eda/edit/main/README.md.txt)
+[LinkedIn](#) · [GitHub]([GitHub](https://github.com/tiogang))
