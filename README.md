@@ -36,6 +36,6 @@ les produits phares et les patterns d'achat des clients.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-green)
 
 ## Structure du notebook
-## Auteure
+## Auteur
 **Shanice Marvin Tiogang** · Business Analytics & Data Science · Tunis  
 [LinkedIn](#) · [GitHub](https://github.com/tiogang/projet-01-retail-eda/edit/main/README.md.txt)
