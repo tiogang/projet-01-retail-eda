@@ -36,7 +36,6 @@ les produits phares et les patterns d'achat des clients.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-green)
 
 ## Structure du notebook
-
 analyse_ventes.ipynb
 - 1. Imports & configuration
 - 2. Chargement & inspection
